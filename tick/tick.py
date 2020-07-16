@@ -6,6 +6,9 @@ help_msg = '''========MCDR-Tick========
 
 def on_info(server, info):
     content = info.content
+    if info.is_player == False and ("ms" in content or "overworld" in content or "the_nether" in content or "Top" in content):
+        server.say("§7" + content)
+        
     cmd = content.split()
     if cmd[0] != Prefix:
         return
