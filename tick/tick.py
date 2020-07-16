@@ -1,5 +1,5 @@
 Prefix = "!!tick"
-format_error = f"§c格式错误！使用§6{Prefix}查看帮助！"
+format_error = f"§c格式错误！使用§6{Prefix}§c查看帮助！"
 help_msg = '''========MCDR-Tick========
 §6!!tick h§r 使用/tick health
 §6!!tick e§r 使用/tick entities'''
@@ -8,7 +8,7 @@ def on_info(server, info):
     content = info.content
     if info.is_player == False and ("ms" in content or "overworld" in content or "the_nether" in content or "Top" in content):
         server.say("§7" + content)
-        
+
     cmd = content.split()
     if cmd[0] != Prefix:
         return
