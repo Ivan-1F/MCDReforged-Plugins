@@ -33,4 +33,4 @@ def on_info(server, info):
         server.execute("carpet commandTick false")
 
 def on_load(server,module):
-    server.add_help_message(Prefix, "一个用于报修机器故障的插件")
+    server.add_help_message(Prefix, "使用Carpet的/tick health和/tick entities指令")
