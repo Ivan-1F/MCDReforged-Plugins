@@ -24,4 +24,4 @@ A repository for listing my [MCDReforged](https://github.com/Fallen-Breath/MCDRe
 
 |Name|Function|pget URL|
 |----|----|----|
-|[home](https://github.com/wyf0762/MCDReforged-Plugins/tree/master/home)|Set a home and telepot to home at any time|https://raw.githubusercontent.com/wyf0762/MCDReforged-Plugins/master/MirrorSync/home.py|
+|[home](https://github.com/wyf0762/MCDReforged-Plugins/tree/master/home)|Set a home and teleport to home at any time|https://raw.githubusercontent.com/wyf0762/MCDReforged-Plugins/master/MirrorSync/home.py|

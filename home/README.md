@@ -1,6 +1,6 @@
 # MCDR-Home
 
-Set a home and telepot to home at any time
+Set a home and teleport to home at any time
 
 ## Install
 
