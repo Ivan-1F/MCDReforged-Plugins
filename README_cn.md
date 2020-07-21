@@ -12,6 +12,14 @@
 |----|----|----|
 |[tick](https://github.com/wyf0762/MCDReforged-Plugins/tree/master/tick)|使用Carpet Mod的`/tick health`和`/tick entities`指令|https://raw.githubusercontent.com/wyf0762/MCDReforged-Plugins/master/tick/tick.py|
 
+## 游戏辅助
+
+### 实用工具
+
+|名称|功能|pget URL|
+|----|----|----|
+|[dimTeleport](https://github.com/wyf0762/MCDReforged-Plugins/tree/master/dimTeleport)|在主世界地狱末地之间传送|https://raw.githubusercontent.com/wyf0762/MCDReforged-Plugins/master/dimTeleport/dimTeleport.py|
+
 ## 服务器管理
 
 ### 文件管理
@@ -24,4 +32,4 @@
 
 |名称|功能|pget URL|
 |----|----|----|
-|[home](https://github.com/wyf0762/MCDReforged-Plugins/tree/master/home)|设置家并在任何时候传送回家|https://raw.githubusercontent.com/wyf0762/MCDReforged-Plugins/master/MirrorSync/home.py|
+|[home](https://github.com/wyf0762/MCDReforged-Plugins/tree/master/home)|设置家并在任何时候传送回家|https://raw.githubusercontent.com/wyf0762/MCDReforged-Plugins/master/home/home.py|

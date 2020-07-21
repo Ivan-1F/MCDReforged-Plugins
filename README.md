@@ -12,6 +12,14 @@ A repository for listing my [MCDReforged](https://github.com/Fallen-Breath/MCDRe
 |----|----|----|
 |[tick](https://github.com/wyf0762/MCDReforged-Plugins/tree/master/tick)|Use Carpet Mod's `/tick health` and `/tick entities` commands|https://raw.githubusercontent.com/wyf0762/MCDReforged-Plugins/master/tick/tick.py|
 
+## Game Helper
+
+### Tools
+
+|Name|Function|pget URL|
+|----|----|----|
+|[dimTeleport](https://github.com/wyf0762/MCDReforged-Plugins/tree/master/dimTeleport)|Teleport between overworld, the nether and the_end|https://raw.githubusercontent.com/wyf0762/MCDReforged-Plugins/master/dimTeleport/dimTeleport.py|
+
 ## Server Management
 
 ### File Management
@@ -24,4 +32,4 @@ A repository for listing my [MCDReforged](https://github.com/Fallen-Breath/MCDRe
 
 |Name|Function|pget URL|
 |----|----|----|
-|[home](https://github.com/wyf0762/MCDReforged-Plugins/tree/master/home)|Set a home and teleport to home at any time|https://raw.githubusercontent.com/wyf0762/MCDReforged-Plugins/master/MirrorSync/home.py|
+|[home](https://github.com/wyf0762/MCDReforged-Plugins/tree/master/home)|Set a home and teleport to home at any time|https://raw.githubusercontent.com/wyf0762/MCDReforged-Plugins/master/home/home.py|
