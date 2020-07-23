@@ -80,3 +80,7 @@ def on_info(server, info):
             time.sleep(DELAY)
             server.execute(command)
         WORKING = False
+
+def on_load(server, old_module):
+    global Prefix
+    server.add_help_message(Prefix + " help", "制造空置域帮助")
