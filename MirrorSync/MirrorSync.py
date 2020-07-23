@@ -129,3 +129,6 @@ def on_info(server, info):
             return
         tell_msg(server, "§c没有什么需要终止的", False)
         
+def on_load(server, old_module):
+    global Prefix
+    server.add_help_message(Prefix, "镜像服存档同步帮助")
