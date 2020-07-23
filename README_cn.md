@@ -19,6 +19,7 @@
 |名称|功能|pget URL|
 |----|----|----|
 |[dimTeleport](https://github.com/wyf0762/MCDReforged-Plugins/tree/master/dimTeleport)|在主世界地狱末地之间传送|https://raw.githubusercontent.com/wyf0762/MCDReforged-Plugins/master/dimTeleport/dimTeleport.py|
+|[PerimeterMaker](https://github.com/wyf0762/MCDReforged-Plugins/tree/master/PerimeterMaker)|在创造/镜像服中快速制造空置域，逐层操作，防止卡顿|https://raw.githubusercontent.com/wyf0762/MCDReforged-Plugins/master/PerimeterMaker/PerimeterMaker.py|
 
 ## 服务器管理
 
