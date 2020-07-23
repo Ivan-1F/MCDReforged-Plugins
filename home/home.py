@@ -72,3 +72,7 @@ def on_info(server, info):
         server.reply(info, '设定家至 {} §r{}'.format(dimension_display[dim], position_show))
         add_data(info.player, dim, pos_x, pos_y, pos_z)
         return
+
+def on_load(server, old_module):
+    global Prefix
+    server.add_help_message(Prefix + " help", "家插件的帮助")
