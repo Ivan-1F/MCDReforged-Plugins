@@ -23,6 +23,12 @@ A repository for listing my [MCDReforged](https://github.com/Fallen-Breath/MCDRe
 
 ## Server Management
 
+### Announcement
+
+|Name|Function|pget URL|
+|----|----|----|
+|[joinMOTD+++](https://github.com/wyf0762/MCDReforged-Plugins/tree/master/joinMOTD+++)|Send player a MOTD when he joins|https://raw.githubusercontent.com/wyf0762/MCDReforged-Plugins/master/joinMOTD+++/joinMOTD+++.py|
+
 ### File Management
 
 |Name|Function|pget URL|

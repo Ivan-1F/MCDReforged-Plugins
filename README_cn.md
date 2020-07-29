@@ -23,6 +23,12 @@
 
 ## 服务器管理
 
+### 公告/通知
+
+|名称|功能|pget URL|
+|----|----|----|
+|[joinMOTD+++](https://github.com/wyf0762/MCDReforged-Plugins/tree/master/joinMOTD+++)|当玩家加入游戏时向其发送欢迎信息|https://raw.githubusercontent.com/wyf0762/MCDReforged-Plugins/master/joinMOTD+++/joinMOTD+++.py|
+
 ### 文件管理
 
 |名称|功能|pget URL|
