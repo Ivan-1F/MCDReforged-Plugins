@@ -4,7 +4,7 @@
 
 当玩家加入游戏时向其发送欢迎信息
 
-![screenshot](https://github.com/wyf0762/MCDReforged-Plugins/tree/master/joinMOTD+++/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/wyf0762/MCDReforged-Plugins/master/joinMOTD+++/screenshot.png)
 
 ## 环境要求
 
