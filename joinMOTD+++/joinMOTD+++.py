@@ -95,7 +95,7 @@ def on_info(server, info):
     global Prefix, HELP_MSG
     content = info.content
     cmd = content.split()
-    if cmd[0] != Prefix:
+    if len(cmd) == 0 or cmd[0] != Prefix:
         return
     del cmd[0]
 
