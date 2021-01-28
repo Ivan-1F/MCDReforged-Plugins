@@ -1,6 +1,6 @@
 # MCDReforged-Plugins
 
-[English](https://github.com/wyf0762/MCDReforged-Plugins/blob/master/README.md)
+[English](https://github.com/wyf0762/MCDReforged-Plugins/blob/master/README.md) / **中文**
 
 一个用于列出我的 [MCDReforged](https://github.com/Fallen-Breath/MCDReforged) 插件的仓库.
 
@@ -11,6 +11,12 @@
 |名称|功能|pget URL|
 |----|----|----|
 |[tick](https://github.com/wyf0762/MCDReforged-Plugins/tree/master/tick)|使用Carpet Mod的`/tick health`和`/tick entities`指令|https://raw.githubusercontent.com/wyf0762/MCDReforged-Plugins/master/tick/tick.py|
+
+### 坐标
+
+|名称|功能|pget URL|
+|----|----|----|
+|[where](https://github.com/Ivan-YFw/MCDReforged-Plugins/tree/master/where)|查看其他玩家的坐标信息|https://raw.githubusercontent.com/Ivan-YFw/MCDReforged-Plugins/master/where/where.py|
 
 ## 游戏辅助
 
