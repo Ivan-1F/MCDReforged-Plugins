@@ -7,7 +7,7 @@
  - `!!where`: 显示帮助信息
  - `!!where <player>`: 查看其它玩家的坐标
 
-你可以通过修改代码中的 `PREFIX` 常量修改命令前缀
+You can modify the prefix of the command by editing the `PREFIX` constant in the code
 
 ## 依赖
 
