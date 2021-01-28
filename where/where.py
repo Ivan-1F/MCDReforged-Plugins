@@ -6,9 +6,9 @@ PLUGIN_METADATA = {
     'id': 'where',
 	'version': '1.0.0',
 	'name': 'Where',
-	'description': 'Sample plugin for MCDR',
+	'description': 'A plugin to check the coordinate of a player',
 	'author': 'IvanYF',
-	'link': 'https://github.com/IvanYFw/MCDReforged-plugins',
+	'link': 'https://github.com/Ivan-YFw/MCDReforged-Plugins/tree/master/where',
 	'dependencies': {
 		'mcdreforged': '>=1.0.0',
 		'minecraft_data_api': '*'

@@ -16,7 +16,7 @@ A repository for listing my [MCDReforged](https://github.com/Fallen-Breath/MCDRe
 
 |Name|Function|pget URL|
 |----|----|----|
-|[where](https://github.com/Ivan-YFw/MCDReforged-Plugins/tree/master/where)|Check the coordinates of other players|https://raw.githubusercontent.com/Ivan-YFw/MCDReforged-Plugins/master/where/where.py|
+|[where](https://github.com/Ivan-YFw/MCDReforged-Plugins/tree/master/where)|Check the coordinate of a player|https://raw.githubusercontent.com/Ivan-YFw/MCDReforged-Plugins/master/where/where.py|
 
 ## Game Helper
 
