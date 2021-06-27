@@ -1,4 +1,3 @@
-from typing import Literal
 from mcdreforged.api.all import *
 import os
 
@@ -34,11 +33,11 @@ help_msg = '''
 
 def on_load(server: ServerInterface, old_module):
 	server.register_help_message(PREFIX, "查看其他玩家的坐标")
-	server.register_command(Literal(PREFIX).runs(lambda src: src.reply(help_msg)).then(Text('player').runs(lambda src, ctx: src.reply(reply_info(server, src, ctx)))))
+	server.register_command(Literal(PREFIX).runs(lambda src: src.reply(help_msg)).then(Text('player').runs(lambda src, ctx: reply_info(server, src, ctx))))
 
 @new_thread(PLUGIN_METADATA['id'])
 def reply_info(server: ServerInterface, src: CommandSource, ctx):
 	api = server.get_plugin_instance('minecraft_data_api')
 	dim = api.get_player_dimension(ctx['player'])
 	cord = api.get_player_coordinate(ctx['player'])
-	src.reply('§6{} §7@ {} [x:{}, y:{}, z:{}]'.format(src.player, dim_convert[dim], int(cord.x), int(cord.y), int(cord.z)))
+	src.reply('§6{} §7@ {} [x:{}, y:{}, z:{}]'.format(ctx['player'], dim_convert[dim], int(cord.x), int(cord.y), int(cord.z)))
