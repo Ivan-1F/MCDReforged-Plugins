@@ -1,4 +1,4 @@
-# joinMOTD+++
+# JoinMOTD+++ (Deprecated)
 
 一个 MCDReforged 插件
 
