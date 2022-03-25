@@ -1,4 +1,4 @@
-# where
+# Where
 
 一个查看其他玩家坐标的 [MCDReforged](https://github.com/Fallen-Breath/MCDReforged) 插件
 
