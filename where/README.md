@@ -2,6 +2,8 @@
 
 一个查看其他玩家坐标的 [MCDReforged](https://github.com/Fallen-Breath/MCDReforged) 插件
 
+更推荐使用 [Ra1ny_Yuki](https://github.com/ra1ny-yuki) 的[重制版本](https://github.com/Lazy-Bing-Server/WhereIs-MCDR)
+
 ## 用法
 
  - `!!where`: 显示帮助信息
@@ -17,6 +19,8 @@
 ---
 
 A [MCDReforged](https://github.com/Fallen-Breath/MCDReforged) plugin to check the coordinate of a player
+
+It is recommanded to use the [reforged version](https://github.com/Lazy-Bing-Server/WhereIs-MCDR) by [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 
 ## Usage
 
