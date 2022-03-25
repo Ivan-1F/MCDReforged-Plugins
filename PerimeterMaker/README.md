@@ -1,4 +1,4 @@
-# PerimeterMaker
+# PerimeterMaker (Deprecated)
 
 Create perimeters in creative/mirror servers, operate layer by layer to avoid lags.
 
